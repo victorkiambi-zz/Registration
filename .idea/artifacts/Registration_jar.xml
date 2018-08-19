@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Registration:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Registration_jar</output-path>
+    <root id="archive" name="Registration.jar">
+      <element id="module-output" name="Registration" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/commons-lang3-3.7/commons-lang3-3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/commons-lang3-3.7/commons-lang3-3.7-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/commons-lang3-3.7/commons-lang3-3.7-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/commons-lang3-3.7/commons-lang3-3.7-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/commons-lang3-3.7/commons-lang3-3.7-test-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/dynamicreports-core-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/controlsfx-9.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/DynamicJasper-5.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/barcodes-7.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/commons-digester-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/itextpdf-5.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/commons-collections-3.2.1-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/commons-logging-1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/commons-logging-1.2/commons-logging-1.2-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/sqlite-jdbc-3.21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/jasperreports-6.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../javafx/Libraries/fontawesomefx-8.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
